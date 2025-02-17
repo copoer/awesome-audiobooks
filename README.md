@@ -27,9 +27,6 @@ Welcome to the ultimate collection of free audiobook resources! This repository 
 ### Project Gutenberg
 [Project Gutenberg](https://gutenberg.org) is one of the oldest digital libraries offering free eBooks and a selection of audiobooks. While its strength lies in its vast text collection, its audio offerings—primarily of public domain works—are a valuable resource for audiobook fans.
 
-### Loyal Books
-[Loyal Books](http://www.loyalbooks.com) (formerly known as Books Should Be Free) curates a diverse collection of free audiobooks sourced largely from LibriVox and Project Gutenberg. Its intuitive design lets you easily browse by genre, author, or title.
-
 ### Internet Archive
 [Internet Archive](https://archive.org/details/audio) hosts a massive digital library that includes free audiobooks, radio shows, and podcasts. Its archive spans historical recordings and literary works, offering a treasure trove of audio content for free.
 
